@@ -1,0 +1,7 @@
+2024-12-25 06:56:18,700 - ERROR - models.json not found. did you rename it?
+2024-12-25 06:56:22,301 - WARNING - exiting program due to error: FileNotFoundError
+2024-12-25 06:59:08,438 - ERROR - models.json not found. did you rename it?
+2024-12-25 06:59:12,618 - WARNING - exiting program due to error: FileNotFoundError
+2024-12-25 17:24:47,309 - ERROR - models.json not found
+2024-12-25 17:24:52,191 - INFO - empty models.json created
+2024-12-25 17:24:52,191 - INFO - continuing with empty models.json
