@@ -12,3 +12,6 @@
 2024-12-28 01:35:50,638 - WARNING - exiting program due to error: FileNotFoundError
 2024-12-28 01:46:19,948 - ERROR - iem.json.json not found
 2024-12-28 01:46:23,633 - WARNING - exiting program due to error: FileNotFoundError
+2024-12-28 02:02:51,212 - INFO - serving {'name': 'KZ ZSN PRO 2', 'maximum frequency': 40000, 'minimum frequency': 20, 'base sensitivity': 108.0, 'sensitivity variability': 0.0, 'base impedance': 26.0, 'impedance variability': 0.0, 'drivers': 'DD:1,BA:1,PLANAR:0', 'price': 25.0} from getmodel()
+2024-12-28 02:02:51,213 - INFO - displaying model info: 
+{'name': 'KZ ZSN PRO 2', 'maximum frequency': 40000, 'minimum frequency': 20, 'base sensitivity': 108.0, 'sensitivity variability': 0.0, 'base impedance': 26.0, 'impedance variability': 0.0, 'drivers': 'DD:1,BA:1,PLANAR:0', 'price': 25.0}

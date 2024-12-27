@@ -104,8 +104,12 @@ def view(type):
     model = getmodel(type)
     logging.info(f"displaying model info: \n{model}")
     
+    print()
+    print()
     for key, val in model.items():
         print(f"{key}: {val}")
+    print()
+    input("Press ENTER to continue ")
     return 1
 
 
