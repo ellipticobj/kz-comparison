@@ -103,7 +103,11 @@ def getmodel(type):
 def view(type):
     model = getmodel(type)
     logging.info(f"displaying model info: \n{model}")
-    print(model)
+    
+    for key, val in model.items():
+        print(f"{key}: {val}")
+    return 1
+
 
 def add():
     
