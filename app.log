@@ -5,3 +5,10 @@
 2024-12-25 17:24:47,309 - ERROR - models.json not found
 2024-12-25 17:24:52,191 - INFO - empty models.json created
 2024-12-25 17:24:52,191 - INFO - continuing with empty models.json
+2024-12-28 01:34:16,286 - ERROR - Error decoding iems.json
+2024-12-28 01:34:47,712 - ERROR - iem.json not found
+2024-12-28 01:34:55,026 - WARNING - exiting program due to error: FileNotFoundError
+2024-12-28 01:35:47,216 - ERROR - iems.json not found
+2024-12-28 01:35:50,638 - WARNING - exiting program due to error: FileNotFoundError
+2024-12-28 01:46:19,948 - ERROR - iem.json.json not found
+2024-12-28 01:46:23,633 - WARNING - exiting program due to error: FileNotFoundError

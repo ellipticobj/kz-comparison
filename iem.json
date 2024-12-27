@@ -1,0 +1,13 @@
+{
+    "KZ ZSN PRO 2": {
+        "name": "KZ ZSN PRO 2",
+        "maximum frequency": 40000,
+        "minimum frequency": 20,
+        "base sensitivity": 108.0,
+        "sensitivity variability": 0.0,
+        "base impedance": 26.0,
+        "impedance variability": 0.0,
+        "drivers": "DD:1,BA:1,PLANAR:0",
+        "price": 25.0
+    }
+}
