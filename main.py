@@ -8,6 +8,10 @@ from utils import *
 overcomplicated program for a problem no one has
 '''
 
+# TODO: LOGGING LOGGING LOGGING
+# TODO: fill up the jsons
+# TODO: better ui ux etc
+
 print("KZ stats tool")
 
 # debug?
