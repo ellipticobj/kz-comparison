@@ -1,5 +1,6 @@
 # kz product viewer
 
-i made this to view kz products and their stats
+KZ audio is a company that sells audio gear like headphones, iems (in ear monintors), and dacs (digital to analog converter).  
+i made this simple program so that i can compare the stats for all their products.  
 
-im too lazy to input all the kz products maybe ill do it later
+browse their products here: https://kz-audio.com/
